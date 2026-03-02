@@ -10,7 +10,6 @@ I am a Software Engineering student focused on learning Java and Object-Oriented
 Currently studying:
 - Java
 - OOP
-- SQL
 - Git and GitHub
 
 ## Projects
