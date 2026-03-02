@@ -12,14 +12,6 @@ Currently studying:
 - OOP
 - Git and GitHub
 
-## Projects
-
-### Student Manager (Java)
-Simple system to register students using Java and OOP concepts.
-
-### Bank System (Java)
-Basic banking system with deposit and withdraw operations.
-
 ## Goals
 
 - Become a professional developer
