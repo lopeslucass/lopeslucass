@@ -22,9 +22,6 @@ Projects will be added as I progress in my studies.
 - Improve my Java skills
 - Build solid projects
 
-## Contact
-
-LinkedIn: (coloque aqui depois)
 
 <!--
 **lopeslucass/lopeslucass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
