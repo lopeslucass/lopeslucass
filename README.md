@@ -11,6 +11,10 @@ Currently studying:
 - Java
 - OOP
 - Git and GitHub
+  
+## Projects
+
+Projects will be added as I progress in my studies.
 
 ## Goals
 
